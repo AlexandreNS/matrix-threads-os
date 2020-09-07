@@ -72,5 +72,4 @@ public class MatrixCalculator extends Thread{
         }
         System.out.println("Execução das Somas finalizada");
     }
-
 }

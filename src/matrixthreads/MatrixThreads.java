@@ -19,6 +19,5 @@ public class MatrixThreads {
             e.printStackTrace();
         }
         System.out.println("Resultado da Soma = " + mc.getSum());
-    }
-    
+    }  
 }

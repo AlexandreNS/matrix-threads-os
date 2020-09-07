@@ -1,16 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package matrixthreads;
 
 import java.util.Arrays;
 
-/**
- *
- * @author alexa
- */
 public class MatrixGenerator {
     private static int max = 0;
     private static int min = 100;
